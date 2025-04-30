@@ -1,0 +1,1 @@
+# A-drone-based-vision-system-to-identify-crop-diseases-by-analyzing-leaf-patterns-and-discolorations.
